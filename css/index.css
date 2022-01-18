@@ -339,7 +339,7 @@ body{
 }
 
 /* 通过JS点击添加show类名来开启弹窗*/
-.dialog.show{
+#loginBox.dialog.show{
     display: flex;
     justify-content: center;
     align-items: center;
